@@ -36,3 +36,5 @@ Carthage/
 .DS_Store
 .AppleDouble
 .LSOverride
+.build
+.swiftpm
